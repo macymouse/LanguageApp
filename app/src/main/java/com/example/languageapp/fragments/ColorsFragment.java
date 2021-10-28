@@ -87,7 +87,7 @@ public class ColorsFragment extends Fragment {
         words.add(new Word("dusty yellow", "ṭopiisә", R.mipmap.color_dusty_yellow,R.raw.color_dusty_yellow));
         words.add(new Word("green", "chokokki", R.mipmap.color_green,R.raw.color_green));
         words.add(new Word("brown", "ṭakaakki", R.mipmap.color_brown,R.raw.color_brown));
-        words.add(new Word("gray", "ṭopoppi", R.mipmap.color_gray,R.raw.color_gray));
+        words.add(new Word("gray", "ṭopoppi", R.mipmap.color_gray,R.raw.color_grey));
         words.add(new Word("black", "kululli", R.mipmap.color_black,R.raw.color_black));
         words.add(new Word("white", "kelelli", R.mipmap.color_white,R.raw.color_white));
 

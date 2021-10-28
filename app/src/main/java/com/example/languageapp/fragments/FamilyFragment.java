@@ -88,7 +88,7 @@ public class FamilyFragment extends Fragment {
         words.add(new Word("daughter", "tune", R.mipmap.family_daughter,R.raw.family_daughter));
         words.add(new Word("older brother", "taachi", R.mipmap.family_older_brother,R.raw.family_older_brother));
         words.add(new Word("younger brother", "chalitti", R.mipmap.family_younger_brother,R.raw.family_younger_brother));
-        words.add(new Word("older sister", "teṭe", R.mipmap.family_older_sister,R.raw.family_younger_sister));
+        words.add(new Word("older sister", "teṭe", R.mipmap.family_older_sister,R.raw.family_older_sister));
         words.add(new Word("younger sister", "kolliti", R.mipmap.family_younger_sister,R.raw.family_younger_sister));
         words.add(new Word("grandmother ", "ama", R.mipmap.family_grandmother,R.raw.family_grandmother));
         words.add(new Word("grandfather", "paapa", R.mipmap.family_grandfather,R.raw.family_grandfather));
