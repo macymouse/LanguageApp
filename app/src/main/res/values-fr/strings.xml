@@ -39,4 +39,10 @@
     <string name="lets_go">Allons-y.</string>
     <string name="come_here">Viens ici.</string>
     <string name="im_feeling_good">"Je me sens bien. "</string>
+    <string name="logout">Déconnecter</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="category_family">Famille</string>
+    <string name="category_numbers">Nombres</string>
+    <string name="category_colors">Couleurs</string>
+    <string name="category_phrases">Phrases</string>
 </resources>
