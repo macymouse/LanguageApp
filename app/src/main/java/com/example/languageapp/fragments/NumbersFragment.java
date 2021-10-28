@@ -84,16 +84,16 @@ public class NumbersFragment extends Fragment {
         // Create a list of words
         final ArrayList<Word> words = new ArrayList<>();
 
-        words.add(new Word("one", "lutti", R.mipmap.number_one, R.raw.number_one));
-        words.add(new Word("two", "otiiko", R.mipmap.number_two, R.raw.number_two));
-        words.add(new Word("three", "tolooKosu", R.mipmap.number_three, R.raw.number_three));
-        words.add(new Word("four", "oyyisa", R.mipmap.number_four, R.raw.number_four));
-        words.add(new Word("five", "masokka", R.mipmap.number_five, R.raw.number_five));
-        words.add(new Word("six", "temmoka", R.mipmap.number_six, R.raw.number_six));
-        words.add(new Word("seven", "kenekaku", R.mipmap.number_seven, R.raw.number_seven));
-        words.add(new Word("eight", "kawinta", R.mipmap.number_eight, R.raw.number_eight));
-        words.add(new Word("nine", "wo'e", R.mipmap.number_nine, R.raw.number_nine));
-        words.add(new Word("ten", "na'accha", R.mipmap.number_ten, R.raw.number_ten));
+        words.add(new Word(getString(R.string.one), "lutti", R.mipmap.number_one, R.raw.number_one));
+        words.add(new Word(getString(R.string.two), "otiiko", R.mipmap.number_two, R.raw.number_two));
+        words.add(new Word(getString(R.string.three), "tolooKosu", R.mipmap.number_three, R.raw.number_three));
+        words.add(new Word(getString(R.string.four), "oyyisa", R.mipmap.number_four, R.raw.number_four));
+        words.add(new Word(getString(R.string.five), "masokka", R.mipmap.number_five, R.raw.number_five));
+        words.add(new Word(getString(R.string.six), "temmoka", R.mipmap.number_six, R.raw.number_six));
+        words.add(new Word(getString(R.string.seven), "kenekaku", R.mipmap.number_seven, R.raw.number_seven));
+        words.add(new Word(getString(R.string.eight), "kawinta", R.mipmap.number_eight, R.raw.number_eight));
+        words.add(new Word(getString(R.string.nine), "wo'e", R.mipmap.number_nine, R.raw.number_nine));
+        words.add(new Word(getString(R.string.ten), "na'accha", R.mipmap.number_ten, R.raw.number_ten));
 
 
 
