@@ -39,10 +39,18 @@
     <string name="lets_go">Allons-y.</string>
     <string name="come_here">Viens ici.</string>
     <string name="im_feeling_good">"Je me sens bien. "</string>
-    <string name="logout">Déconnecter</string>
-    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
-    <string name="category_family">Famille</string>
-    <string name="category_numbers">Nombres</string>
-    <string name="category_colors">Couleurs</string>
     <string name="category_phrases">Phrases</string>
+    <string name="category_colors">Couleurs</string>
+    <string name="category_numbers">Nombres</string>
+    <string name="category_family">Famille</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="logout">Déconnecter</string>
+    <string name="login">Se connecter</string>
+    <string name="username">Identifiant</string>
+    <string name="password">Mot de passe</string>
+    <string name="show_password">Montrer le mot de passe</string>
+    <string name="sign_up_message">Vous n\'avez pas de compte ? S\'inscrire.</string>
+    <string name="name">Nom</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="sign_up">S\'inscrire</string>
 </resources>
