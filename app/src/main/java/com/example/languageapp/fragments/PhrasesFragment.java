@@ -84,16 +84,16 @@ public class PhrasesFragment extends Fragment {
         // Create a list of words
         final ArrayList<Word> words = new ArrayList<>();
 
-        words.add(new Word(getString(R.string.where_are_you_going), "minto wuksus",R.raw.phrase_where_are_you_going));
-        words.add(new Word(getString(R.string.what_is_you_name), "tinnә oyaase'nә",R.raw.phrase_what_is_your_name));
-        words.add(new Word(getString(R.string.my_name_is), "oyaaset...",R.raw.phrase_my_name_is));
-        words.add(new Word(getString(R.string.how_are_you_feeling), "michәksәs?",R.raw.phrase_how_are_you_feeling));
-        words.add(new Word(getString(R.string.im_feeling_good), "kuchi achit",R.raw.phrase_im_feeling_good));
-        words.add(new Word(getString(R.string.are_you_coming), "әәnәs'aa?",R.raw.phrase_are_you_coming));
-        words.add(new Word(getString(R.string.yes_im_coming), "hәә’ әәnәm",R.raw.phrase_yes_im_coming));
-        words.add(new Word(getString(R.string.im_coming), "әәnәm",R.raw.phrase_im_coming));
-        words.add(new Word(getString(R.string.lets_go), "yoowutis",R.raw.phrase_lets_go));
-        words.add(new Word(getString(R.string.come_here), "әnni'nem",R.raw.phrase_come_here));
+        words.add(new Word(getString(R.string.where_are_you_going), "Πού πηγαίνεις?",R.raw.phrase_where_are_you_going));
+        words.add(new Word(getString(R.string.what_is_you_name), "Πως σε λένε?",R.raw.phrase_what_is_your_name));
+        words.add(new Word(getString(R.string.my_name_is), "Το όνομά μου είναι...",R.raw.phrase_my_name_is));
+        words.add(new Word(getString(R.string.how_are_you_feeling), "Πως αισθάνεσαι?",R.raw.phrase_how_are_you_feeling));
+        words.add(new Word(getString(R.string.im_feeling_good), "Αισθάνομαι καλά.",R.raw.phrase_im_feeling_good));
+        words.add(new Word(getString(R.string.are_you_coming), "Ερχεσαι?",R.raw.phrase_are_you_coming));
+        words.add(new Word(getString(R.string.yes_im_coming), "Ναι, έρχομαι.",R.raw.phrase_yes_im_coming));
+        words.add(new Word(getString(R.string.im_coming), "Ερχομαι.",R.raw.phrase_im_coming));
+        words.add(new Word(getString(R.string.lets_go), "Πάμε.",R.raw.phrase_lets_go));
+        words.add(new Word(getString(R.string.come_here), "Ελα εδώ.",R.raw.phrase_come_here));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

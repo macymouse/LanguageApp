@@ -82,16 +82,16 @@ public class FamilyFragment extends Fragment {
         // Create a list of words
         final ArrayList<Word> words = new ArrayList<>();
 
-        words.add(new Word(getString(R.string.father), "әpә", R.mipmap.family_father,R.raw.family_father));
-        words.add(new Word(getString(R.string.mother), "әṭa", R.mipmap.family_mother,R.raw.family_mother));
-        words.add(new Word(getString(R.string.son), "angsi", R.mipmap.family_son,R.raw.family_son));
-        words.add(new Word(getString(R.string.daughter), "tune", R.mipmap.family_daughter,R.raw.family_daughter));
-        words.add(new Word(getString(R.string.older_brother), "taachi", R.mipmap.family_older_brother,R.raw.family_older_brother));
-        words.add(new Word(getString(R.string.younger_brother), "chalitti", R.mipmap.family_younger_brother,R.raw.family_younger_brother));
-        words.add(new Word(getString(R.string.older_sister), "teṭe", R.mipmap.family_older_sister,R.raw.family_older_sister));
-        words.add(new Word(getString(R.string.younger_sister), "kolliti", R.mipmap.family_younger_sister,R.raw.family_younger_sister));
-        words.add(new Word(getString(R.string.grandmother), "ama", R.mipmap.family_grandmother,R.raw.family_grandmother));
-        words.add(new Word(getString(R.string.grandfather), "paapa", R.mipmap.family_grandfather,R.raw.family_grandfather));
+        words.add(new Word(getString(R.string.father), "Πατέρας", R.mipmap.family_father,R.raw.family_father));
+        words.add(new Word(getString(R.string.mother), "Μητέρα", R.mipmap.family_mother,R.raw.family_mother));
+        words.add(new Word(getString(R.string.son), "Υιός", R.mipmap.family_son,R.raw.family_son));
+        words.add(new Word(getString(R.string.daughter), "Κόρη", R.mipmap.family_daughter,R.raw.family_daughter));
+        words.add(new Word(getString(R.string.older_brother), "Μεγαλύτερος αδερφός", R.mipmap.family_older_brother,R.raw.family_older_brother));
+        words.add(new Word(getString(R.string.younger_brother), "Νεότερος αδερφός", R.mipmap.family_younger_brother,R.raw.family_younger_brother));
+        words.add(new Word(getString(R.string.older_sister), "Μεγαλύτερη αδερφή", R.mipmap.family_older_sister,R.raw.family_older_sister));
+        words.add(new Word(getString(R.string.younger_sister), "Μικρότερη αδερφή", R.mipmap.family_younger_sister,R.raw.family_younger_sister));
+        words.add(new Word(getString(R.string.grandmother), "Γιαγιά", R.mipmap.family_grandmother,R.raw.family_grandmother));
+        words.add(new Word(getString(R.string.grandfather), "Παππούς", R.mipmap.family_grandfather,R.raw.family_grandfather));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.
