@@ -26,4 +26,6 @@
     <string name="nine">Nine</string>
     <string name="ten">Ten</string>
 
+    <!-- Text for Logout menu -->
+    <string name="logout">Logout</string>
 </resources>
