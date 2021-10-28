@@ -1,4 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Language Application</string>
+    <string name="one">Une</string>
+    <string name="two">Deux</string>
+    <string name="three">Trois</string>
+    <string name="four">Quatre</string>
+    <string name="five">Cinq</string>
+    <string name="six">Six</string>
+    <string name="seven">Sept</string>
+    <string name="eight">"Huit "</string>
+    <string name="nine">Neuve</string>
+    <string name="ten">Dix</string>
+    <string name="mustard_yellow">"Jaune moutarde "</string>
+    <string name="red">Rouge</string>
+    <string name="dusty_yellow">Jaune poussiéreux</string>
+    <string name="green">Verte</string>
+    <string name="brown">Brun</string>
+    <string name="grey">Grise</string>
+    <string name="black">Noire</string>
+    <string name="white">Blanche</string>
+    <string name="father">Père</string>
+    <string name="mother">Mère</string>
+    <string name="son">Fils</string>
+    <string name="daughter">"La fille "</string>
+    <string name="older_brother">Grand frère</string>
+    <string name="younger_brother">"Frère cadet "</string>
+    <string name="older_sister">Sœur aînée</string>
+    <string name="younger_sister">Sœur cadette</string>
+    <string name="grandmother">Grand-mère</string>
+    <string name="grandfather">Grand-père</string>
+    <string name="where_are_you_going">"Où allez-vous? "</string>
+    <string name="what_is_you_name">Quel est ton nom?</string>
+    <string name="my_name_is">Mon nom est...</string>
+    <string name="how_are_you_feeling">Comment allez-vous?</string>
+    <string name="are_you_coming">Viens-tu?</string>
+    <string name="yes_im_coming">Oui, je viens.</string>
+    <string name="im_coming">"J'arrive. "</string>
+    <string name="lets_go">Allons-y.</string>
+    <string name="come_here">Viens ici.</string>
+    <string name="im_feeling_good">"Je me sens bien. "</string>
 </resources>
